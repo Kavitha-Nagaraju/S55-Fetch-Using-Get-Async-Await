@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.products{
+  display: inline-block;
+  width: 300px;
+  height:400px;
+  border:5px ridge blue;
+  margin:5px;
+}
+img{
+  width:200px;
+  height:200px;
+  object-fit: contain;
+}
+h4{
+  width:300px;
+  height:50px;
+
+}
